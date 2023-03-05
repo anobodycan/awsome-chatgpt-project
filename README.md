@@ -7,8 +7,8 @@
 ---
 
 | 简介 | 链接 | 详情 |
-|-------- | ----- | ----- |
-|chatgpt-web服务| [去查看](https://github.com/Chanzhaoyu/chatgpt-web) |用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |
+|-------- | :---  | ----- |
+|chatgpt-web服务| [点击直达](https://github.com/Chanzhaoyu/chatgpt-web) |用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |
 |双语书翻译器| [去查看](https://github.com/yihong0618/bilingual_book_maker) | @yihong0618 翻译整本，中英文对照，适合直接翻译书进行学习 |
 | 双语书翻译器直接使用版| [去查看](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/) |上面双语书翻译器的壳子 | @goldengrape |
 |零成本代理 | [去查看](https://github.com/noobnooc/noobnooc/discussions/9) | @noobnooc 用Cloudflare Workers;防止屏蔽|
@@ -37,3 +37,4 @@
 |AI帮个忙聚合网站| [去查看](https://ai-toolbox.codefuture.top/) |  各种小工具 |
 |B 站视频总结|[去查看](https://github.com/JimmyLv/BiliGPT)| 快速把 3 分钟废话视频缩减到 100 个字|
 |chatGPT 免费在线版|[去查看](https://freegpt.one/)|使用gpt-3.5-turbo API. 国内可用 套壳gpt网站|
+|飞书对话机器人呢|[去查看](https://github.com/Leizhenpeng/feishu-chatGpt) | 在飞书上与ChatGPT随时对话~ |
