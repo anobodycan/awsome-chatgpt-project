@@ -37,4 +37,5 @@
 |AI帮个忙聚合网站| [去查看](https://ai-toolbox.codefuture.top/) |  各种小工具 |
 |B 站视频总结|[去查看](https://github.com/JimmyLv/BiliGPT)| 快速把 3 分钟废话视频缩减到 100 个字|
 |chatGPT 免费在线版|[去查看](https://freegpt.one/)|使用gpt-3.5-turbo API. 国内可用 套壳gpt网站|
-|飞书对话机器人呢|[去查看](https://github.com/Leizhenpeng/feishu-chatGpt) | 在飞书上与ChatGPT随时对话~ |
+|飞书对话机器人|[去查看](https://github.com/Leizhenpeng/feishu-chatGpt) | 在飞书上与ChatGPT随时对话~ |
+|Bob翻译器|[去查看](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件|
