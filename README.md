@@ -18,6 +18,9 @@
 |高效获取pdf内容迅|[点击直达](https://www.chatpdf.com/) | 速上传pdf，并与pdf内容对话、与书对话 |
 |保存chatgpt聊天记录|[点击直达](https://github.com/liady/ChatGPT-pdf) | 到pdf 或 img;下载;chrome插件;截图|
 |telegram机器人 | [点击直达](https://github.com/karfly/chatgpt_telegram_bot) | 搭建自己的机器人、[部署参考](https://twitter.com/tufook/status/1632099875306504192) |
+|小爱同学gpt版|[点击直达](https://github.com/yihong0618/xiaogpt) | @yihong0618 依然是这位佬的作品|
+|飞书机器人gpt|[点击直达](https://github.com/bestony/ChatGPT-Feishu)| @bestony|
+|企业微信机器人gpt|[点击直达](https://github.com/streetlight3316/toolbox)| @STREETLIGHT3316|
 |opencat 客户端| [点击直达](https://apps.apple.com/app/opencat/id6445999201?mt=12) | 本地桌面ChatGPT客户端；Mac；使用自己key |
 |chatgpt-web项目|[点击直达](https://github.com/869413421/chatgpt-web)|基于ChatGPT3.5 API实现的私有化web程序|
 |Siri对接chatgpt|[点击直达](https://github.com/Yue-Yang/ChatGPT-Siri) | @DottChen 支持连续对话，配置API key，保存聊天记录。| 
