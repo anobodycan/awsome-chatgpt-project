@@ -36,3 +36,4 @@
 |翻译器| [点击直达](https://github.com/LanceMoe/openai-translator) | @lance_moe [实例](https://translator.lance.moe/) | 
 |AI帮个忙聚合网站| [点击直达](https://ai-toolbox.codefuture.top/) |  各种小工具 |
 |B 站视频总结|[点击直达](https://github.com/JimmyLv/BiliGPT)| 快速把 3 分钟废话视频缩减到 100 个字|
+|chatGPT 免费在线版|[点击直达](https://freegpt.one/)|使用gpt-3.5-turbo API. 国内可用 套壳gpt网站|
