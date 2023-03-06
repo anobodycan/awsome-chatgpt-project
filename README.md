@@ -38,4 +38,15 @@
 |B 站视频总结|[去查看](https://github.com/JimmyLv/BiliGPT)| 快速把 3 分钟废话视频缩减到 100 个字|
 |chatGPT 免费在线版|[去查看](https://freegpt.one/)|使用gpt-3.5-turbo API. 国内可用 套壳gpt网站|
 |飞书对话机器人|[去查看](https://github.com/Leizhenpeng/feishu-chatGpt) | 在飞书上与ChatGPT随时对话~ |
-|Bob翻译器|[去查看](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件|
+|Bob翻译器|[去查看](https://github.com/yetone/bob-plugin-openai-translator) | @yetone 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件|
+|滑词翻译插件|[去查看](https://github.com/yetone/openai-translator) | @yetone 基于 ChatGPT API 的划词翻译 Chrome 插件|
+|Obsidian 笔记助手|[去查看](https://pepcn.com/gtd/obsidian-bi-ji-zhu-shou-text-generator) | 插件、可用自己api key |
+|chrome 翻译插件|[去查看](https://chatgpt-sidebar.com/) | @joel_diigo 基于 ChatGPT API翻译 Chrome 插件|
+|Prompt库|[去查看](https://ignacio-velasquez.notion.site/150-AI-Historic-Figures-464075f3804843d7a93087c98cfe4943)|@0xthefool 分享 150+ AI Historic Figures 过复制粘贴提示词给ChatGPT 与世界上最有影响力的150个人对话|
+|ChatGPT复制助手|[去查看](https://www.icloud.com/shortcuts/ef63fbeda55841e4889b7b60a04bf1f2)|@pingchn iOS 捷径|
+|创建自己的chatGPT|[去查看](http://chatbase.co) | @yasser_elsaid_ 自己搭建自定义的chatgpt！|
+|chatGPT 同模板网站|[去查看](https://github.com/yuezk/chatgpt-mirror) | @yuezk 自己搭建chatgpt 同模板网站 Demo: https://fastgpt.app|
+|Telegram机器人|[去查看](https://github.com/yuezk/chatgpt-mirror) | @TBXark 快捷部署属于自己的ChatGPT Telegram机器人|
+|亚马逊音箱Alexa机器人|[去查看](https://github.com/RobertDoufu/aichat) | @RobertDoufu 快捷部署属于自己的ChatGPT Telegram机器人|
+|日本人搞的佛祖AI|[去查看](https://hotoke.ai/) | 带有 gpt-3.5-turbo 的机械佛像|
+|腾讯云函数搭建 OpenAI 国内代理|[去查看](https://github.com/Ice-Hazymoon/openai-scf-proxy) | @Ice_Hazymoon 带有 gpt-3.5-turbo 的机械佛像|
