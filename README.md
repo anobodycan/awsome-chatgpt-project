@@ -46,7 +46,7 @@
 |ChatGPT复制助手|[去查看](https://www.icloud.com/shortcuts/ef63fbeda55841e4889b7b60a04bf1f2)|@pingchn iOS 捷径|03.06|
 |创建自己的chatGPT|[去查看](http://chatbase.co) | @yasser_elsaid_ 自己搭建自定义的chatgpt！|03.06|
 |chatGPT 同模板网站|[去查看](https://github.com/yuezk/chatgpt-mirror) | @yuezk 自己搭建chatgpt 同模板网站 Demo: https://fastgpt.app|03.06|
-|Telegram机器人|[去查看](https://github.com/yuezk/chatgpt-mirror) | @TBXark 快捷部署属于自己的ChatGPT Telegram机器人|03.06|
+|Telegram机器人|[去查看](https://github.com/TBXark/ChatGPT-Telegram-Workers) | @TBXark 快捷部署属于自己的ChatGPT Telegram机器人|03.06|
 |亚马逊音箱Alexa机器人|[去查看](https://github.com/RobertDoufu/aichat) | @RobertDoufu 快捷部署属于自己的ChatGPT Telegram机器人|03.06|
 |日本人搞的佛祖AI|[去查看](https://hotoke.ai/) | 带有 gpt-3.5-turbo 的机械佛像|03.06|
 |腾讯云函数搭建 OpenAI 国内代理|[去查看](https://github.com/Ice-Hazymoon/openai-scf-proxy) | @Ice_Hazymoon 带有 gpt-3.5-turbo 的机械佛像|03.06|
